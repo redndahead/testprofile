@@ -1,0 +1,5 @@
+name = Test profile
+description = Test
+version = VERSION
+core = 7.x
+
